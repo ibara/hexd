@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/hexd
+hexd.so
+hexd.dylib
+hexd.dll
+hexd.a
+hexd.lib
+hexd-test-*
+*.exe
+*.o
+*.obj
+*.lst

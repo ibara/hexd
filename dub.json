@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Brian Callahan"
+	],
+	"copyright": "Copyright © 2021, Brian Callahan",
+	"description": "A simple hexdump utility.",
+	"license": "ISC",
+	"name": "hexd",
+        "dependencies": {
+                "pledged": "*"
+        }
+}
